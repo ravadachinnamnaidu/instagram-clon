@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div2{
+    margin-top: 80px;
+    justify-content: center;
+    margin-left: 250px;
+    padding-top: 30px;
+}
+.div2 a{
+    text-decoration: none;
+    color: gray;
+}
